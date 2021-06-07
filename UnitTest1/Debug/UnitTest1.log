@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+D:\Прога 4 сем лабы\Project2\UnitTest1\UnitTest1.cpp(30,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Прога 4 сем лабы\Project2\UnitTest1\UnitTest1.cpp(31,26): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека D:\Прога 4 сем лабы\Project2\Debug\UnitTest1.lib и объект D:\Прога 4 сем лабы\Project2\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Прога 4 сем лабы\Project2\Debug\UnitTest1.dll
